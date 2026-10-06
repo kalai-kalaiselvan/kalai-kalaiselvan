@@ -9,7 +9,7 @@ MERN Stack Developer | React.js | JavaScript|Node.js|Mysql
 React | JavaScript | HTML5 | CSS3 | Node.js | Git | GitHub|Mysql
 
 ### Featured Projects
-- [People Follow System](https://github.com/Kalai-kalaiselvan/...) - React Context API + Router
+- [People Follow System](https://github.com/kalai-kalaiselvan/first-project) - React Context API + Router
   -
 
 ### Stats
