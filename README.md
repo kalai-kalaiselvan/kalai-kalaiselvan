@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Kalaiselvan 👋
+MERN Stack Developer | React.js | JavaScript|Node.js|Mysql
 
-<!--
-**kalai-kalaiselvan/kalai-kalaiselvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Working on: People Follow/Unfollow App with Context API
+- 🌱 Learning: Node.js, Streams, Git & GitHub, Mysql. 
+- 📫 Contact: [kalaiselvan262005@gmail.com]
+- 📍 Tiruchirapalli, Tamil Tamil
+### Tech Stack
+React | JavaScript | HTML5 | CSS3 | Node.js | Git | GitHub|Mysql
 
-Here are some ideas to get you started:
+### Featured Projects
+- [People Follow System](https://github.com/Kalai-kalaiselvan/...) - React Context API + Router
+  -
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalai-kalaiselvan&show_icons=true)
